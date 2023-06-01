@@ -45,4 +45,6 @@ All code is implemented in the `src/` directory, which includes:
 ### Slurm
 For results checking with SLURM, run the following command:
 
-`srun -c 2 --gres=gpu:1 --pty python src/run_attacks_train2.py --seed 42 --model-name tartanvo_1914.pkl --test-dir "VO_adv_project_train_dataset_8_frames"  --max_traj_len 5 --batch-size 1 --worker-num 1 --save_csv --attack 'personalize_attack.py' --attack_k 100.
+```
+srun -c 2 --gres=gpu:1 --pty python src/run_attacks_train2.py --seed 42 --model-name tartanvo_1914.pkl --test-dir "VO_adv_project_train_dataset_8_frames"  --max_traj_len 5 --batch-size 1 --worker-num 1 --save_csv --attack 'personalize_attack.py' --attack_k 100.
+```
