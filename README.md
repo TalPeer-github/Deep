@@ -1,6 +1,6 @@
 # Universal Adversarial Perturbations on Visual Odometry Systems
-### [**CS236781 — Deep Learning on Computational Accelerators**]
-> Final project submission <br> (https://vistalab-technion.github.io/cs236781)
+### **Deep Learning on Computational Accelerators - CS236781**
+> Final project submission <br> https://vistalab-technion.github.io/cs236781
 >
 > Date: September, 2022. 
 ## Authors
