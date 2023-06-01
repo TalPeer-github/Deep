@@ -1,5 +1,5 @@
 # Universal Adversarial Perturbations on Visual Odometry Systems
-## Final Project
+## Final Project for **Deep Learning on Computational Accelerators - CS236781**
 ### **Deep Learning on Computational Accelerators - CS236781**
 https://vistalab-technion.github.io/cs236781
 > 
