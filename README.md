@@ -6,11 +6,9 @@ https://vistalab-technion.github.io/cs236781
 
 ## Acknowledgment
 
-The original code for this project was provided by the original article authors, and I have made modifications to adapt it for my specific needs and research purposes.
+The original code for this project was provided by the authors of the original article, and I have made modifications to adapt it for my specific needs and research purposes. For more information, please feel free to contact me:
 
-## Author
-
-* Tal Peer : tal.peer@campus.technion.ac.il
+Tal Peer: tal.peer@campus.technion.ac.il
 
 ## Environment setup
 
