@@ -1,15 +1,12 @@
 # Universal Adversarial Perturbations on Visual Odometry Systems
 ### **Deep Learning on Computational Accelerators - CS236781**
 https://vistalab-technion.github.io/cs236781
-> 
+> Tal Peer: tal.peer@campus.technion.ac.il
 > Date: September, 2022
 
 ## Acknowledgment
 
 The original code for this project was provided by the authors of the original article, and I have made modifications to adapt it for my specific needs and research purposes.<br><br>
-For more information, please feel free to contact me:
-
-* Tal Peer: tal.peer@campus.technion.ac.il
 
 ## Environment setup
 
