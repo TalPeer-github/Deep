@@ -3,10 +3,6 @@
 https://vistalab-technion.github.io/cs236781
 > Date: September, 2022
 
-## Acknowledgment
-
-The original code for this project was provided by the authors of the original article, and I have made modifications to adapt it for my specific needs and research purposes.<br><br>
-
 ## Environment setup
 
 Project enviorment dependencies listed in 
@@ -48,3 +44,7 @@ For results checking with SLURM, run the following command:
 ```
 srun -c 2 --gres=gpu:1 --pty python src/run_attacks_train2.py --seed 42 --model-name tartanvo_1914.pkl --test-dir "VO_adv_project_train_dataset_8_frames"  --max_traj_len 5 --batch-size 1 --worker-num 1 --save_csv --attack 'personalize_attack.py' --attack_k 100.
 ```
+
+## Acknowledgment
+
+The original code for this project was provided by the authors of the original article, and I have made modifications to adapt it for my specific needs and research purposes.
