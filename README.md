@@ -3,7 +3,12 @@
 https://vistalab-technion.github.io/cs236781
 > 
 > Date: September, 2022
-## Authors
+
+## Acknowledgment
+
+The original code for this project was provided by the original article authors, and I have made modifications to adapt it for my specific needs and research purposes.
+
+## Author
 
 * Tal Peer : tal.peer@campus.technion.ac.il
 
